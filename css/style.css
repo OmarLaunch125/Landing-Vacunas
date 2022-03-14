@@ -1,0 +1,51 @@
+.body{
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+}
+.button{
+    background-color: blue;
+    color: white;
+}
+.header{
+    align-items: right;
+    align-content: center; 
+}
+.doctor{
+    align-content: right;
+}
+.div{
+    margin-left: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 14px;
+    color:black;
+}
+
+
+.h1,h2,h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(0, 0, 0);
+    text-align: left;
+    font-size: 12px;
+}
+.p{   
+     color:blueviolet; 
+    text-align: left;
+    font-size: 7px;
+    text-align: left;
+}
+
+/* .h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 4px;
+    color:rgb(43, 168, 226);
+}
+
+.h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 4px;
+    color:blueviolet;
+} */
